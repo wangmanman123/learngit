@@ -1,0 +1,10 @@
+{
+    "name": "mm/learngit",
+    "authors": [
+        {
+            "name": "wangmanman123",
+            "email": "2241841662@qq.com"
+        }
+    ],
+    "require": {}
+}
